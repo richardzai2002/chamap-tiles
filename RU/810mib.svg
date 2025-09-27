@@ -1,0 +1,20 @@
+<svg baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd" width="98" height="62" viewBox="-704.966 -459.079 3900 1735.827">
+  <defs>
+    <style>
+      .ss1{stroke:#000;stroke-width:20;fill:#000}
+    </style>
+    <path id="cp0" shape-rendering="crispEdges" d="M106 46h1705v1125H106z"/>
+    <mask id="cr0" maskUnits="userSpaceOnUse" x="0" y="0" width="1960" height="1240" fill-rule="nonzero">
+      <use xlink:href="#cp0" fill="#fff"/>
+    </mask>
+  </defs>
+  <path style="fill:#80e0ff;stroke:#000;stroke-width:41" transform="matrix(1.13119 0 0 1.12819 106.076 45.926)" d="M0 0h1500v1000H0z"/>
+  <g mask="url(#a)">
+    <path d="m0 0 1498 1000m0-1000L0 1000" transform="matrix(1.13119 0 0 1.12819 106.076 45.926)" style="fill:none;stroke:#000;stroke-width:20"/>
+    <path class="ss1" d="m1139 486-157 99 47 38-23 26-33 30-23 19-48 31-41 20-43 12-40 4-21-1V246h292v-15H757v-25l27-2 24-12 18-21 4-27-4-31-15-21-24-17-19-8-19-2v35l19 4 14 9 13 16 2 15-3 9-12 18-12 5-21 3v669l40-1 45-11 49-23 53-33 41-34 56-51 32-40 5-6 55 22z" transform="matrix(1.13119 0 0 1.12819 106.076 45.926)"/>
+    <path class="ss1" d="m362 486 157 99-47 38 23 26 33 30 23 19 48 31 41 20 43 12 40 4 21-1V246H452v-15h292v-25l-27-2-24-12-18-21-4-27 4-31 15-21 24-17 19-8 19-2v35l-19 4-14 9-13 16-2 15 3 9 12 18 12 5 21 3v669l-40-1-45-11-49-23-53-33-41-34-56-51-32-40-5-6-55 22z" transform="matrix(1.13119 0 0 1.12819 106.076 45.926)"/>
+  </g>
+  <text style="fill:#333;font-family:Calibri;font-size:500px;text-anchor:middle;white-space:pre" x="947.271" y="-21.244" dx="6.572" dy="37.788">X</text>
+  <text style="fill:#333;font-family:Calibri;font-size:500px;letter-spacing:-10px;text-anchor:end;white-space:pre" x="25.421" y="1142.98">810</text>
+  <text style="fill:#333;font-family:Calibri;font-size:500px;letter-spacing:-10px;white-space:pre" x="1874.71" y="1142.98">22AC</text>
+</svg>

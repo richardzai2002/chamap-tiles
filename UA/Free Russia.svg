@@ -1,0 +1,15 @@
+<svg baseProfile="full" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd" width="98" height="62" viewBox="-2400 -459.079 5600 1735.827">
+  <defs>
+    <path id="a" shape-rendering="crispEdges" d="M410 454h1124v741H410z"/>
+    <mask id="b" maskUnits="userSpaceOnUse" x="0" y="0" width="1960" height="1240" fill-rule="nonzero">
+      <use xlink:href="#a" fill="#fff"/>
+    </mask>
+  </defs>
+  <path style="fill:#80e0ff;stroke:#000;stroke-width:41" transform="matrix(1.13119 0 0 1.12819 106.076 45.926)" d="M0 0h1500v1000H0z"/>
+  <g mask="url(#a)">
+    <path d="m0 0 1498 1000m0-1000L0 1000" transform="matrix(1.13119 0 0 1.12819 106.076 45.926)" style="fill:none;stroke:#000;stroke-width:20"/>
+  </g>
+  <text style="fill:#333;font-family:Calibri;font-size:500px;text-anchor:middle;white-space:pre" x="947.271" y="-21.244" dx="6.572" dy="37.788">III</text>
+  <text style="fill:#333;font-family:Calibri;font-size:500px;letter-spacing:-10px;text-anchor:end;white-space:pre" x="25.421" y="1142.98">Free Russia</text>
+  <text style="fill:#333;font-family:Calibri;font-size:500px;letter-spacing:-10px;white-space:pre" x="1874.71" y="1142.98"></text>
+</svg>
